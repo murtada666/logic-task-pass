@@ -11,7 +11,6 @@ def prime(x, y):
                 prime_list.append(i)
     return prime_list
  
-# Driver program
 
 #user input
 starting_range = int(input("enter the starting range: "))
